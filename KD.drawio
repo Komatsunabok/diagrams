@@ -96,7 +96,7 @@
         <mxCell id="Uf8PWi-gGfwKJQvJOajK-15" value="large&lt;div&gt;complex&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fontSize=16;" vertex="1" parent="Uf8PWi-gGfwKJQvJOajK-1">
           <mxGeometry x="-200" y="190" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Uf8PWi-gGfwKJQvJOajK-16" value="small&lt;div&gt;efficient&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fontSize=16;direction=west;size=30;position=0.33;" vertex="1" parent="Uf8PWi-gGfwKJQvJOajK-1">
+        <mxCell id="Uf8PWi-gGfwKJQvJOajK-16" value="compact&lt;br&gt;&lt;div&gt;efficient&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fontSize=16;direction=west;size=30;position=0.33;" vertex="1" parent="Uf8PWi-gGfwKJQvJOajK-1">
           <mxGeometry x="-200" y="600" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CvJu6ukwgx1OJO993JkF-0" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="Uf8PWi-gGfwKJQvJOajK-1">
